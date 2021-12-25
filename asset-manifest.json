@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fav-quotes/static/css/main.b8e2af2f.css",
+    "main.js": "/fav-quotes/static/js/main.73b30496.js",
+    "static/media/bg.jpg": "/fav-quotes/static/media/bg.e16827c96171d47a6c10.jpg",
+    "index.html": "/fav-quotes/index.html",
+    "main.b8e2af2f.css.map": "/fav-quotes/static/css/main.b8e2af2f.css.map",
+    "main.73b30496.js.map": "/fav-quotes/static/js/main.73b30496.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8e2af2f.css",
+    "static/js/main.73b30496.js"
+  ]
+}
